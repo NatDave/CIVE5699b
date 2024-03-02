@@ -1,2 +1,2 @@
 # CIVE5699b
-Data Science Course
+Programming and Data Science Course
