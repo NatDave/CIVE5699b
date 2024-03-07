@@ -1,28 +1,19 @@
-# CIVE 7150
-  ## Data-Driven Decision Support 💻
+# CIVE 5699b
+  ## Programming and Data Science 💻
 + I took this course in the second semester of my PhD.
-+ It presents *supervised* and *unsupervised* methods for dealing with large data sets and their application to support decision making in various areas.
-+ Focuses on predictive models and methods for knowledge mining.
-+ Discusses applications from the transportation, urban mobility, and infrastructure maintenance domains.
-+ Demonstrates the applicability and underlying principles of the various methods through case studies with extensive data sets.
++ It was more like an introductory course to programming and data science.
 
 + ***Topics include***:
-  - [x] Regression: Simple Linear, Multiple Linear, Polynomial, Ridge and Lasso Regression
-  - [x] Classification: Logistic regression, kNN, Decision Trees, LDA, SVM, Random Forest, Naive Bayes, Neural Networks
-  - [x] Dimensionality Reduction
-  - [x] Gradient Descent (L1 and L2 regularization)
-  - [x] Clustering: K-means, Hierarchical Clustering, Gaussian Mixture Models, Density-based Clustering
-  - [x] Model Validation
-  - [x] Text Mining
+  - [x] Introduction and programming resources
+  - [x] R and Python introductory exercises
+  - [x] Data curation, storage and remote jobs
+  - [x] Statistics review
 
 ## Dependencies
-
+- R 4.x
 - Python 3
-- scikit-learn
-- numpy
 - pandas
 - matplotlib
-- ucimlrepo
 
 Install the required dependencies using pip:
-pip install scikit-learn numpy pandas matplotlib
+pip install pandas matplotlib
