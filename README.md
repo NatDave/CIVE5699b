@@ -14,6 +14,8 @@
 - Python 3
 - pandas
 - matplotlib
+- seaborn
+- scipy
 
 Install the required dependencies using pip:
-pip install pandas matplotlib
+pip install pandas matplotlib seaborn scipy
