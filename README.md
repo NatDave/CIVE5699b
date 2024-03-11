@@ -7,7 +7,7 @@
   - [x] Introduction and programming resources
   - [x] R and Python introductory exercises
   - [x] Data curation, storage and remote jobs
-  - [x] Statistics review
+  - [x] Statistics (Hypothesis Testing, etc.)
 
 ## Dependencies
 - R 4.x
