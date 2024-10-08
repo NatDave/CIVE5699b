@@ -10,7 +10,7 @@
   - [x] Statistical Hypothesis Testing
 
 ## Dependencies
-- R 4.x
+- R
 - Python 3
 - pandas
 - matplotlib
